@@ -1,1 +1,1 @@
-# Minor-Project-on-Foot-Printing-SQL-Injection-Phishing-Attack-Bypass-Authentication-SET-For-Phishing
+This is a Minor-Project-on-Foot-Printing-SQL-Injection-Phishing-Attack-Bypass-Authentication-SET-For-Phishing was submitted by KOTA SANDEEP, The project was completed Under Esteemed Guidance Of MR CHINTHAKINDI VISHWANATH And was submitted on July, 2022. The project was completed as part of a CYBER SECURITY internship at SMARTKNOWER.
